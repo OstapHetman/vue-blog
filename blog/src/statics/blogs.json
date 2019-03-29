@@ -1,0 +1,24 @@
+{
+  "sport": [
+    {
+      "id": "sport1",
+      "date": "28.03.2019",
+      "title": "Title One",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ],
+  "it": [
+    {
+      "id": "it1",
+      "date": "28.03.2019",
+      "title": "Title IT One",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+      "id": "it2",
+      "date": "23.03.2019",
+      "title": "Title IT Two",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  ]
+}
